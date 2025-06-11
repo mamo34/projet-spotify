@@ -99,7 +99,6 @@ fetch('../data/data.json')
     populateSongsTable(data);
     setupSearch();
     setupSorting();
-    document.getElementById('songCount').textContent = data.length;
     setupModalListener(data);
     generatePopularAlbums(data);
   })
@@ -118,6 +117,7 @@ function populateSongsTable(tracks) {
     
     var nameCell = document.createElement('td');
     nameCell.textContent = track.name;
+    nameCell.setAttribute('data-label', 'Titre');
     row.appendChild(nameCell);
     
     var artistCell = document.createElement('td');
@@ -126,14 +126,17 @@ function populateSongsTable(tracks) {
       artistNames.push(track.artists[j].name);
     }
     artistCell.textContent = artistNames.join(', ');
+    artistCell.setAttribute('data-label', 'Artiste');
     row.appendChild(artistCell);
     
     var albumCell = document.createElement('td');
     albumCell.textContent = track.album ? track.album.name : '';
+    albumCell.setAttribute('data-label', 'Album');
     row.appendChild(albumCell);
     
     var actionCell = document.createElement('td');
     actionCell.className = 'text-center';
+    actionCell.setAttribute('data-label', 'Action'); 
     
     var detailButton = document.createElement('button');
     detailButton.className = 'btn btn-sm btn-outline-primary details-btn';
@@ -181,7 +184,9 @@ function setupModalListener(tracks) {
         if (track.album.images && track.album.images.length > 0) {
           albumImage = track.album.images[0].url;
         }
-        document.getElementById('modalAlbumImage').src = albumImage;
+        var albumImageElement = document.getElementById('modalAlbumImage');
+        albumImageElement.src = albumImage;
+        albumImageElement.alt = track.album.name + '-cover';
         document.getElementById('modalReleaseDate').textContent = formatDate(track.album.release_date);
         document.getElementById('modalAlbumPopularity').textContent = 'Popularité: ' + (track.album.popularity || 0) + '/100';
       }
@@ -338,6 +343,7 @@ function generatePopularAlbums(tracks) {
     } else {
       img.src = 'https://via.placeholder.com/300';
     }
+    img.alt = album.name + '-cover';
     card.appendChild(img);
     
     var cardBody = document.createElement('div');
