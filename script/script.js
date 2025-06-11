@@ -513,3 +513,98 @@ function setupSorting() {
     });
   }
 }
+
+
+
+const overlay = document.getElementById('overlayImageWrapper');
+
+overlay.addEventListener('mouseenter', () => {
+  // Clear previous sparkles if any (optional)
+  document.querySelectorAll('.sparkle, .sparkle-emoji').forEach(el => el.remove());
+
+  // Number of dot sparkles
+  const dotCount = 12;
+  // Number of emoji sparkles
+  const emojiCount = 6;
+  const sparkleEmoji = '✨';
+
+  // Create dot sparkles
+  for (let i = 0; i < dotCount; i++) {
+    const sparkle = document.createElement('div');
+    sparkle.classList.add('sparkle');
+
+    // Wider random spread: from -80px to +80px horizontally and vertically
+    const x = (Math.random() - 0.5) * 160 + 'px';
+    const y = (Math.random() - 0.5) * 160 + 'px';
+
+    sparkle.style.setProperty('--x', x);
+    sparkle.style.setProperty('--y', y);
+
+    // Random size between 4 and 8px
+    const size = 4 + Math.random() * 4;
+    sparkle.style.width = sparkle.style.height = size + 'px';
+
+    overlay.appendChild(sparkle);
+
+    sparkle.addEventListener('animationend', () => sparkle.remove());
+  }
+
+  // Create emoji sparkles
+  for (let i = 0; i < emojiCount; i++) {
+    const emoji = document.createElement('div');
+    emoji.classList.add('sparkle-emoji');
+    emoji.textContent = sparkleEmoji;
+
+    // Same wider spread
+    const x = (Math.random() - 0.5) * 160 + 'px';
+    const y = (Math.random() - 0.5) * 160 + 'px';
+
+    emoji.style.setProperty('--x', x);
+    emoji.style.setProperty('--y', y);
+
+    // Random font size 14-22px for variety
+    emoji.style.fontSize = (14 + Math.random() * 8) + 'px';
+
+    overlay.appendChild(emoji);
+
+    emoji.addEventListener('animationend', () => emoji.remove());
+  }
+
+
+   document.querySelectorAll('.sparkle, .sparkle-emoji').forEach(el => el.remove());
+
+
+  for (let i = 0; i < dotCount; i++) {
+    const sparkle = document.createElement('div');
+    sparkle.classList.add('sparkle');
+    const x = (Math.random() - 0.5) * 160 + 'px';
+    const y = (Math.random() - 0.5) * 160 + 'px';
+    sparkle.style.setProperty('--x', x);
+    sparkle.style.setProperty('--y', y);
+    const size = 4 + Math.random() * 4;
+    sparkle.style.width = sparkle.style.height = size + 'px';
+    overlay.appendChild(sparkle);
+    sparkle.addEventListener('animationend', () => sparkle.remove());
+  }
+
+  for (let i = 0; i < emojiCount; i++) {
+    const emoji = document.createElement('div');
+    emoji.classList.add('sparkle-emoji');
+    emoji.textContent = sparkleEmoji;
+    const x = (Math.random() - 0.5) * 160 + 'px';
+    const y = (Math.random() - 0.5) * 160 + 'px';
+    emoji.style.setProperty('--x', x);
+    emoji.style.setProperty('--y', y);
+    emoji.style.fontSize = (14 + Math.random() * 8) + 'px';
+    overlay.appendChild(emoji);
+    emoji.addEventListener('animationend', () => emoji.remove());
+  }
+
+  // 1/100 chance explosion
+  if (Math.floor(Math.random() * 100) === 0) {
+    const explosion = document.createElement('div');
+    explosion.classList.add('explosion');
+    overlay.appendChild(explosion);
+    explosion.addEventListener('animationend', () => explosion.remove());
+  }
+});
