@@ -78,7 +78,7 @@
         },
         "followers": {
           "href": null,
-          "total": 18646
+          "total": 18728
         },
         "genres": [
           "djent",
@@ -225,7 +225,7 @@
         },
         "followers": {
           "href": null,
-          "total": 48592
+          "total": 49060
         },
         "genres": [
           "djent",
@@ -264,7 +264,7 @@
     },
     "id": "7goOBp1pzbohHhaaJO05H2",
     "name": "Aquila",
-    "popularity": 38,
+    "popularity": 37,
     "preview_url": "https://p.scdn.co/mp3-preview/edefa0a0a5e20950a1444c3bea243eaa2d04f9d0",
     "track_number": 1,
     "type": "track"
@@ -348,7 +348,7 @@
         },
         "followers": {
           "href": null,
-          "total": 141823
+          "total": 142297
         },
         "genres": [
           "djent",
@@ -696,7 +696,7 @@
         },
         "followers": {
           "href": null,
-          "total": 60249
+          "total": 60295
         },
         "genres": [
           "post-hardcore",
@@ -734,8 +734,8 @@
     },
     "id": "3ocF3QHf15885i5LHJdRf3",
     "name": "Letting Go",
-    "popularity": 37,
-    "preview_url": "https://p.scdn.co/mp3-preview/22509e6bb41c2ed220e3d535aaf3c2946f5e948e",
+    "popularity": 36,
+    "preview_url": null,
     "track_number": 7,
     "type": "track"
   },
@@ -1068,7 +1068,7 @@
         },
         "followers": {
           "href": null,
-          "total": 6382423
+          "total": 6393838
         },
         "genres": [
           "metalcore",
@@ -1413,7 +1413,7 @@
         },
         "followers": {
           "href": null,
-          "total": 4232
+          "total": 4238
         },
         "genres": [],
         "id": "54SzcVbeDRlzp38AbhOIKu",
@@ -1444,7 +1444,7 @@
         },
         "followers": {
           "href": null,
-          "total": 99852
+          "total": 99952
         },
         "genres": [],
         "id": "4YnKu09qC1HfJiiV1jBjtE",
@@ -1932,7 +1932,7 @@
         },
         "followers": {
           "href": null,
-          "total": 258556
+          "total": 259171
         },
         "genres": [
           "deathstep",
@@ -2426,7 +2426,7 @@
         },
         "followers": {
           "href": null,
-          "total": 258556
+          "total": 259171
         },
         "genres": [
           "deathstep",
@@ -2870,7 +2870,7 @@
         },
         "followers": {
           "href": null,
-          "total": 1705975
+          "total": 1710599
         },
         "genres": [
           "metalcore",
@@ -3341,7 +3341,7 @@
         },
         "followers": {
           "href": null,
-          "total": 1705975
+          "total": 1710599
         },
         "genres": [
           "metalcore",
@@ -3487,7 +3487,7 @@
         },
         "followers": {
           "href": null,
-          "total": 185285
+          "total": 186215
         },
         "genres": [
           "metalcore",
@@ -3758,7 +3758,7 @@
         },
         "followers": {
           "href": null,
-          "total": 4465
+          "total": 4491
         },
         "genres": [
           "metal industriel"
@@ -3782,7 +3782,7 @@
           }
         ],
         "name": "Sturmmann",
-        "popularity": 28,
+        "popularity": 29,
         "type": "artist"
       }
     ],
@@ -3794,7 +3794,7 @@
     },
     "id": "1q7avPKAhVJreAGSjLfyEg",
     "name": "Herbst",
-    "popularity": 12,
+    "popularity": 13,
     "preview_url": "https://p.scdn.co/mp3-preview/e3e0a90606557975992a0fe00ebc8b5b04997508",
     "track_number": 7,
     "type": "track"
@@ -3903,7 +3903,7 @@
         },
         "followers": {
           "href": null,
-          "total": 4316
+          "total": 4357
         },
         "genres": [
           "metalcore"
@@ -3927,7 +3927,7 @@
           }
         ],
         "name": "CZYK",
-        "popularity": 21,
+        "popularity": 22,
         "type": "artist"
       }
     ],
@@ -3975,7 +3975,7 @@
       "type": "album",
       "genres": [],
       "label": "New Dawn Collective",
-      "popularity": 6,
+      "popularity": 7,
       "artists": [
         {
           "external_urls": {
@@ -4043,7 +4043,7 @@
         },
         "followers": {
           "href": null,
-          "total": 31442
+          "total": 31495
         },
         "genres": [
           "death metal mélodique",
@@ -4078,7 +4078,7 @@
         },
         "followers": {
           "href": null,
-          "total": 2336
+          "total": 2345
         },
         "genres": [
           "deathstep",
@@ -4151,7 +4151,7 @@
       "type": "album",
       "genres": [],
       "label": "Rise Records",
-      "popularity": 43,
+      "popularity": 44,
       "artists": [
         {
           "external_urls": {
@@ -4449,7 +4449,7 @@
         },
         "followers": {
           "href": null,
-          "total": 115666
+          "total": 115962
         },
         "genres": [
           "metalcore",
@@ -4795,7 +4795,7 @@
         },
         "followers": {
           "href": null,
-          "total": 529039
+          "total": 531749
         },
         "genres": [
           "metalcore",
@@ -5286,7 +5286,7 @@
         },
         "followers": {
           "href": null,
-          "total": 258556
+          "total": 259171
         },
         "genres": [
           "deathstep",
@@ -5323,7 +5323,7 @@
         },
         "followers": {
           "href": null,
-          "total": 142398
+          "total": 142967
         },
         "genres": [
           "dubstep",
@@ -5469,7 +5469,7 @@
         },
         "followers": {
           "href": null,
-          "total": 1576873
+          "total": 1578486
         },
         "genres": [
           "basse mélodique",
@@ -5504,7 +5504,7 @@
         },
         "followers": {
           "href": null,
-          "total": 884246
+          "total": 889009
         },
         "genres": [
           "metalcore",
@@ -5530,7 +5530,7 @@
           }
         ],
         "name": "Spiritbox",
-        "popularity": 71,
+        "popularity": 70,
         "type": "artist"
       }
     ],
@@ -5676,7 +5676,7 @@
         },
         "followers": {
           "href": null,
-          "total": 6382423
+          "total": 6393838
         },
         "genres": [
           "metalcore",
@@ -5714,7 +5714,7 @@
         },
         "followers": {
           "href": null,
-          "total": 18732105
+          "total": 18757323
         },
         "genres": [
           "rap mélodique"
@@ -5747,7 +5747,7 @@
         },
         "followers": {
           "href": null,
-          "total": 4511
+          "total": 4526
         },
         "genres": [
           "metalcore"
@@ -5780,7 +5780,7 @@
         },
         "followers": {
           "href": null,
-          "total": 168124
+          "total": 168425
         },
         "genres": [
           "post-hardcore",
@@ -5902,7 +5902,7 @@
         },
         "followers": {
           "href": null,
-          "total": 3864131
+          "total": 3876801
         },
         "genres": [
           "emo",
@@ -6023,7 +6023,7 @@
         },
         "followers": {
           "href": null,
-          "total": 329211
+          "total": 331508
         },
         "genres": [
           "metalcore",
@@ -6146,7 +6146,7 @@
         },
         "followers": {
           "href": null,
-          "total": 3864131
+          "total": 3876801
         },
         "genres": [
           "emo",
@@ -6287,7 +6287,7 @@
         },
         "followers": {
           "href": null,
-          "total": 69726
+          "total": 69966
         },
         "genres": [
           "deathcore",
@@ -6321,7 +6321,7 @@
         },
         "followers": {
           "href": null,
-          "total": 779
+          "total": 767
         },
         "genres": [],
         "id": "3pzAv6e3wcba0cTuKOOKij",
@@ -6343,7 +6343,7 @@
           }
         ],
         "name": "The Gnarly Neighbor",
-        "popularity": 22,
+        "popularity": 21,
         "type": "artist"
       }
     ],
@@ -6391,7 +6391,7 @@
       "type": "album",
       "genres": [],
       "label": "Spinefarm",
-      "popularity": 72,
+      "popularity": 73,
       "artists": [
         {
           "external_urls": {
@@ -6714,7 +6714,7 @@
         },
         "followers": {
           "href": null,
-          "total": 2218653
+          "total": 2249925
         },
         "genres": [
           "metal progressif",
@@ -7085,7 +7085,7 @@
         },
         "followers": {
           "href": null,
-          "total": 397
+          "total": 398
         },
         "genres": [
           "metalcore"
@@ -7109,7 +7109,7 @@
           }
         ],
         "name": "Depths of Aetherium",
-        "popularity": 4,
+        "popularity": 5,
         "type": "artist"
       }
     ],
@@ -7121,7 +7121,7 @@
     },
     "id": "4sbiUIo7mYGV6Kgl7ZNFa3",
     "name": "This Might Be Everything",
-    "popularity": 2,
+    "popularity": 1,
     "preview_url": "https://p.scdn.co/mp3-preview/00da0920bb961d6e3e20effbab572b1dcd2b9e51",
     "track_number": 7,
     "type": "track"
@@ -7157,7 +7157,7 @@
       "type": "album",
       "genres": [],
       "label": "Spinefarm",
-      "popularity": 81,
+      "popularity": 82,
       "artists": [
         {
           "external_urls": {
@@ -7480,7 +7480,7 @@
         },
         "followers": {
           "href": null,
-          "total": 2218653
+          "total": 2249925
         },
         "genres": [
           "metal progressif",
@@ -7489,17 +7489,17 @@
         "id": "2n2RSaZqBuUUukhbLlpnE6",
         "images": [
           {
-            "url": "https://i.scdn.co/image/ab6761610000e5ebdbc568c9d871256b9a3e34a1",
+            "url": "https://i.scdn.co/image/ab6761610000e5ebd00c2ff422829437e6b5f1e0",
             "height": 640,
             "width": 640
           },
           {
-            "url": "https://i.scdn.co/image/ab67616100005174dbc568c9d871256b9a3e34a1",
+            "url": "https://i.scdn.co/image/ab67616100005174d00c2ff422829437e6b5f1e0",
             "height": 320,
             "width": 320
           },
           {
-            "url": "https://i.scdn.co/image/ab6761610000f178dbc568c9d871256b9a3e34a1",
+            "url": "https://i.scdn.co/image/ab6761610000f178d00c2ff422829437e6b5f1e0",
             "height": 160,
             "width": 160
           }
@@ -7856,7 +7856,7 @@
         },
         "followers": {
           "href": null,
-          "total": 115666
+          "total": 115962
         },
         "genres": [
           "metalcore",
@@ -7929,7 +7929,7 @@
       "type": "album",
       "genres": [],
       "label": "Rise Records",
-      "popularity": 43,
+      "popularity": 44,
       "artists": [
         {
           "external_urls": {
@@ -8227,7 +8227,7 @@
         },
         "followers": {
           "href": null,
-          "total": 115666
+          "total": 115962
         },
         "genres": [
           "metalcore",
@@ -8648,7 +8648,7 @@
         },
         "followers": {
           "href": null,
-          "total": 6382423
+          "total": 6393838
         },
         "genres": [
           "metalcore",
@@ -8998,7 +8998,7 @@
         },
         "followers": {
           "href": null,
-          "total": 916472
+          "total": 917846
         },
         "genres": [
           "metalcore",
@@ -9401,7 +9401,7 @@
         },
         "followers": {
           "href": null,
-          "total": 443905
+          "total": 444302
         },
         "genres": [
           "animé",
@@ -9435,7 +9435,7 @@
         },
         "followers": {
           "href": null,
-          "total": 44229
+          "total": 44357
         },
         "genres": [
           "nerdcore",
@@ -9577,7 +9577,7 @@
         },
         "followers": {
           "href": null,
-          "total": 29449
+          "total": 29511
         },
         "genres": [
           "trap dark",
@@ -9611,7 +9611,7 @@
         },
         "followers": {
           "href": null,
-          "total": 9607
+          "total": 9625
         },
         "genres": [
           "trap dark",
@@ -9645,7 +9645,7 @@
         },
         "followers": {
           "href": null,
-          "total": 10060
+          "total": 10087
         },
         "genres": [
           "j-rap"
@@ -9785,7 +9785,7 @@
         },
         "followers": {
           "href": null,
-          "total": 2400280
+          "total": 2400078
         },
         "genres": [
           "trap dark"
@@ -9818,7 +9818,7 @@
         },
         "followers": {
           "href": null,
-          "total": 6382423
+          "total": 6393838
         },
         "genres": [
           "metalcore",
@@ -9859,7 +9859,7 @@
     },
     "id": "39iRz0h1eZOyXzch8tKQit",
     "name": "CODE MISTAKE",
-    "popularity": 69,
+    "popularity": 68,
     "preview_url": "https://p.scdn.co/mp3-preview/9fa9b3a13c8b145e4a26bb6cb19f642e8ad5d31f",
     "track_number": 1,
     "type": "track"
@@ -9963,7 +9963,7 @@
         },
         "followers": {
           "href": null,
-          "total": 11589
+          "total": 11602
         },
         "genres": [
           "chillstep",
@@ -9998,7 +9998,7 @@
         },
         "followers": {
           "href": null,
-          "total": 2855
+          "total": 2869
         },
         "genres": [
           "basse mélodique"
@@ -10022,7 +10022,7 @@
           }
         ],
         "name": "DREAMOIR",
-        "popularity": 26,
+        "popularity": 27,
         "type": "artist"
       }
     ],
@@ -10070,7 +10070,7 @@
       "type": "album",
       "genres": [],
       "label": "acloudyskye",
-      "popularity": 28,
+      "popularity": 29,
       "artists": [
         {
           "external_urls": {
@@ -10318,7 +10318,7 @@
         },
         "followers": {
           "href": null,
-          "total": 17871
+          "total": 18051
         },
         "genres": [],
         "id": "5OeSHuvHTS9qUgAUTt3GIR",
@@ -10491,7 +10491,7 @@
         },
         "followers": {
           "href": null,
-          "total": 12739
+          "total": 12764
         },
         "genres": [
           "basse mélodique",
@@ -10501,17 +10501,17 @@
         "id": "6uku31mN2SKBGAIEM6Umgi",
         "images": [
           {
-            "url": "https://i.scdn.co/image/ab6761610000e5ebf9e1ec840be035779cd250f8",
+            "url": "https://i.scdn.co/image/ab6761610000e5ebbbe0794a998840d0af271bf5",
             "height": 640,
             "width": 640
           },
           {
-            "url": "https://i.scdn.co/image/ab67616100005174f9e1ec840be035779cd250f8",
+            "url": "https://i.scdn.co/image/ab67616100005174bbe0794a998840d0af271bf5",
             "height": 320,
             "width": 320
           },
           {
-            "url": "https://i.scdn.co/image/ab6761610000f178f9e1ec840be035779cd250f8",
+            "url": "https://i.scdn.co/image/ab6761610000f178bbe0794a998840d0af271bf5",
             "height": 160,
             "width": 160
           }
@@ -10526,7 +10526,7 @@
         },
         "followers": {
           "href": null,
-          "total": 660
+          "total": 661
         },
         "genres": [
           "basse mélodique",
@@ -10647,7 +10647,7 @@
         },
         "followers": {
           "href": null,
-          "total": 28346
+          "total": 28440
         },
         "genres": [
           "metalcore"
@@ -10671,7 +10671,7 @@
           }
         ],
         "name": "Memorist",
-        "popularity": 45,
+        "popularity": 44,
         "type": "artist"
       }
     ],
@@ -10719,7 +10719,7 @@
       "type": "album",
       "genres": [],
       "label": "The Technicolors",
-      "popularity": 46,
+      "popularity": 47,
       "artists": [
         {
           "external_urls": {
@@ -11042,7 +11042,7 @@
         },
         "followers": {
           "href": null,
-          "total": 83448
+          "total": 83648
         },
         "genres": [],
         "id": "6hQS54VPpxunuwR0W7usuo",
@@ -11112,7 +11112,7 @@
       "type": "album",
       "genres": [],
       "label": "Monstercat",
-      "popularity": 38,
+      "popularity": 37,
       "artists": [
         {
           "external_urls": {
@@ -11390,7 +11390,7 @@
         },
         "followers": {
           "href": null,
-          "total": 258556
+          "total": 259171
         },
         "genres": [
           "deathstep",
@@ -11427,7 +11427,7 @@
         },
         "followers": {
           "href": null,
-          "total": 473614
+          "total": 473801
         },
         "genres": [
           "dubstep",
@@ -11463,7 +11463,7 @@
         },
         "followers": {
           "href": null,
-          "total": 123256
+          "total": 123528
         },
         "genres": [],
         "id": "4fv1OFJywZ7DHCz3mVQQ45",
@@ -11631,7 +11631,7 @@
         },
         "followers": {
           "href": null,
-          "total": 529039
+          "total": 531749
         },
         "genres": [
           "metalcore",
@@ -11852,7 +11852,7 @@
         },
         "followers": {
           "href": null,
-          "total": 21851
+          "total": 21913
         },
         "genres": [
           "post-hardcore"
@@ -11888,7 +11888,7 @@
     },
     "id": "3DkK8VY9rP7WegVfhlzgO3",
     "name": "Dive",
-    "popularity": 45,
+    "popularity": 46,
     "preview_url": "https://p.scdn.co/mp3-preview/f15464cdb9c8867bba60a0c57ddcf935df065855",
     "track_number": 1,
     "type": "track"
@@ -11924,7 +11924,7 @@
       "type": "album",
       "genres": [],
       "label": "GLASS TIDES",
-      "popularity": 33,
+      "popularity": 34,
       "artists": [
         {
           "external_urls": {
@@ -12072,7 +12072,7 @@
         },
         "followers": {
           "href": null,
-          "total": 32616
+          "total": 32744
         },
         "genres": [],
         "id": "3ss8CCHIds5hKnQ9un3dU0",
@@ -12106,7 +12106,7 @@
     },
     "id": "7jgYb8GJKop9ZAqarWpWfq",
     "name": "Forever",
-    "popularity": 42,
+    "popularity": 44,
     "preview_url": "https://p.scdn.co/mp3-preview/734824a72df86f5e91c2c917f2205af373b074b5",
     "track_number": 4,
     "type": "track"
@@ -12190,7 +12190,7 @@
         },
         "followers": {
           "href": null,
-          "total": 1030
+          "total": 1026
         },
         "genres": [],
         "id": "3HhCTUgUQh6tLfQAqCTEmm",
@@ -12558,7 +12558,7 @@
         },
         "followers": {
           "href": null,
-          "total": 59275
+          "total": 59408
         },
         "genres": [
           "post-hardcore"
@@ -12698,7 +12698,7 @@
         },
         "followers": {
           "href": null,
-          "total": 8714
+          "total": 8715
         },
         "genres": [
           "basse mélodique",
@@ -12732,7 +12732,7 @@
         },
         "followers": {
           "href": null,
-          "total": 17871
+          "total": 18051
         },
         "genres": [],
         "id": "5OeSHuvHTS9qUgAUTt3GIR",
@@ -12901,7 +12901,7 @@
         },
         "followers": {
           "href": null,
-          "total": 17871
+          "total": 18051
         },
         "genres": [],
         "id": "5OeSHuvHTS9qUgAUTt3GIR",
@@ -12971,7 +12971,7 @@
       "type": "album",
       "genres": [],
       "label": "Sferoom Distribution",
-      "popularity": 15,
+      "popularity": 16,
       "artists": [
         {
           "external_urls": {
@@ -13019,7 +13019,7 @@
         },
         "followers": {
           "href": null,
-          "total": 8200
+          "total": 8217
         },
         "genres": [],
         "id": "0ZfqW6c0A2u0q8Dm5IF2by",
@@ -13212,7 +13212,7 @@
         },
         "followers": {
           "href": null,
-          "total": 407276
+          "total": 408384
         },
         "genres": [],
         "id": "5AWgF8Ghqm94WZ4GxCt8K5",
@@ -13282,7 +13282,7 @@
       "type": "album",
       "genres": [],
       "label": "CZYK",
-      "popularity": 14,
+      "popularity": 15,
       "artists": [
         {
           "external_urls": {
@@ -13415,7 +13415,7 @@
         },
         "followers": {
           "href": null,
-          "total": 4316
+          "total": 4357
         },
         "genres": [
           "metalcore"
@@ -13439,7 +13439,7 @@
           }
         ],
         "name": "CZYK",
-        "popularity": 21,
+        "popularity": 22,
         "type": "artist"
       }
     ],
@@ -13459,70 +13459,70 @@
   {
     "album": {
       "external_urls": {
-        "spotify": "https://open.spotify.com/album/3HVGBv1ezXqVyx9Lit89Rk"
+        "spotify": "https://open.spotify.com/album/4cQdv0OHOQj1VJcG9qguxN"
       },
       "album_type": "single",
       "total_tracks": 1,
-      "id": "3HVGBv1ezXqVyx9Lit89Rk",
+      "id": "4cQdv0OHOQj1VJcG9qguxN",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b273207022ffea619540d2eb3d36",
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3f58f2609d629590f8c1ee9",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e02207022ffea619540d2eb3d36",
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3f58f2609d629590f8c1ee9",
           "height": 300,
           "width": 300
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00004851207022ffea619540d2eb3d36",
+          "url": "https://i.scdn.co/image/ab67616d00004851f3f58f2609d629590f8c1ee9",
           "height": 64,
           "width": 64
         }
       ],
-      "name": "Sing me a song",
-      "release_date": "2022-08-04",
+      "name": "You Are What You Own",
+      "release_date": "2025-03-07",
       "release_date_precision": "day",
       "type": "album",
       "genres": [],
-      "label": "Hxzz",
-      "popularity": 0,
+      "label": "Guest In The Car",
+      "popularity": 24,
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7DhyszD4toHMnXQoVdeHbU"
+            "spotify": "https://open.spotify.com/artist/3AigBKvnllc4J6sSvVSlJc"
           },
-          "href": "https://api.spotify.com/v1/artists/7DhyszD4toHMnXQoVdeHbU",
-          "id": "7DhyszD4toHMnXQoVdeHbU",
-          "name": "Hxzz",
+          "href": "https://api.spotify.com/v1/artists/3AigBKvnllc4J6sSvVSlJc",
+          "id": "3AigBKvnllc4J6sSvVSlJc",
+          "name": "Guest In The Car",
           "type": "artist",
-          "uri": "spotify:artist:7DhyszD4toHMnXQoVdeHbU"
+          "uri": "spotify:artist:3AigBKvnllc4J6sSvVSlJc"
         }
       ],
       "tracks": [
         {
-          "id": "5dRnQEyckhbfFb4ckgps9F",
-          "name": "Sing me a song",
+          "id": "7uESGWiLdKAyZZfBvCznd7",
+          "name": "You Are What You Own",
           "track_number": 1,
           "disc_number": 1,
-          "duration_ms": 228014,
-          "explicit": true,
+          "duration_ms": 253026,
+          "explicit": false,
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/6xQa1b9jduPkqkAdddfHz7"
+            "spotify": "https://open.spotify.com/track/7uESGWiLdKAyZZfBvCznd7"
           },
           "preview_url": null,
           "type": "track",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7DhyszD4toHMnXQoVdeHbU"
+                "spotify": "https://open.spotify.com/artist/3AigBKvnllc4J6sSvVSlJc"
               },
-              "href": "https://api.spotify.com/v1/artists/7DhyszD4toHMnXQoVdeHbU",
-              "id": "7DhyszD4toHMnXQoVdeHbU",
-              "name": "Hxzz",
+              "href": "https://api.spotify.com/v1/artists/3AigBKvnllc4J6sSvVSlJc",
+              "id": "3AigBKvnllc4J6sSvVSlJc",
+              "name": "Guest In The Car",
               "type": "artist",
-              "uri": "spotify:artist:7DhyszD4toHMnXQoVdeHbU"
+              "uri": "spotify:artist:3AigBKvnllc4J6sSvVSlJc"
             }
           ]
         }
@@ -13531,46 +13531,46 @@
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/7DhyszD4toHMnXQoVdeHbU"
+          "spotify": "https://open.spotify.com/artist/3AigBKvnllc4J6sSvVSlJc"
         },
         "followers": {
           "href": null,
-          "total": 13956
+          "total": 764
         },
         "genres": [],
-        "id": "7DhyszD4toHMnXQoVdeHbU",
+        "id": "3AigBKvnllc4J6sSvVSlJc",
         "images": [
           {
-            "url": "https://i.scdn.co/image/ab6761610000e5ebc2a2804e1e9981dcaca17116",
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc3a3bfbb488c34dd5282e478",
             "height": 640,
             "width": 640
           },
           {
-            "url": "https://i.scdn.co/image/ab67616100005174c2a2804e1e9981dcaca17116",
+            "url": "https://i.scdn.co/image/ab67616100005174c3a3bfbb488c34dd5282e478",
             "height": 320,
             "width": 320
           },
           {
-            "url": "https://i.scdn.co/image/ab6761610000f178c2a2804e1e9981dcaca17116",
+            "url": "https://i.scdn.co/image/ab6761610000f178c3a3bfbb488c34dd5282e478",
             "height": 160,
             "width": 160
           }
         ],
-        "name": "Hxzz",
-        "popularity": 44,
+        "name": "Guest In The Car",
+        "popularity": 18,
         "type": "artist"
       }
     ],
     "disc_number": 1,
-    "duration_ms": 228014,
-    "explicit": true,
+    "duration_ms": 253026,
+    "explicit": false,
     "external_urls": {
-      "spotify": "https://open.spotify.com/track/6xQa1b9jduPkqkAdddfHz7"
+      "spotify": "https://open.spotify.com/track/7uESGWiLdKAyZZfBvCznd7"
     },
-    "id": "5dRnQEyckhbfFb4ckgps9F",
-    "name": "Sing me a song",
-    "popularity": 0,
-    "preview_url": "https://p.scdn.co/mp3-preview/1eaf91b8e66c7862bd0d02efc114ddfc3b9836f3",
+    "id": "7uESGWiLdKAyZZfBvCznd7",
+    "name": "You Are What You Own",
+    "popularity": 35,
+    "preview_url": "https://p.scdn.co/mp3-preview/cfcac6822db50ef6fe8f43d74f59cff7ab6c68fe",
     "track_number": 1,
     "type": "track"
   }

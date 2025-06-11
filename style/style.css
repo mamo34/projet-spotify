@@ -1,0 +1,52 @@
+body {
+    overflow-x: hidden;
+  }
+
+  #genreDistributionChart {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
+  }
+
+  #songies{
+    padding : 0 calc(9vw);
+  }
+
+  #alboom {
+    padding : 0 calc(9vw);
+  }
+
+  @media (max-width: 768px) {
+    #songies .table {
+        display: block; 
+        width: 100%; 
+    }
+
+    #songies .table thead {
+        display: none; 
+    }
+
+    #songies .table tbody tr {
+        display: flex; 
+        flex-direction: column; 
+        border: 1px solid #ddd; 
+        padding: 1rem; 
+    }
+
+    #songies .table tbody tr td {
+        display: flex;
+        justify-content: space-between; 
+    }
+
+    #songies .table tbody tr td::before {
+        content: attr(data-label);
+        font-weight: bold; 
+    }
+
+    #alboom .row-cols-md-3 .row-cols-lg-6 img {
+        object-fit: cover;
+        object-position: center;
+        height: calc(100vw / 3); 
+        width: 100%; 
+    }
+}
