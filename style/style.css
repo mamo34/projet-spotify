@@ -168,3 +168,12 @@ body {
     opacity: 0;
   }
 }
+
+#explosionGif {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+  z-index: 10000;
+}
