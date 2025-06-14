@@ -513,7 +513,9 @@ function setupSorting() {
     });
   }
 }
-
+console.log("salut")
+const salut = [1,2]
+salut.forEach(() => {});
 const overlay = document.getElementById('overlayImageWrapper');
 
 // Prepare audio
